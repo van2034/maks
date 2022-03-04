@@ -1,0 +1,83 @@
+[33mcommit 03b7de4598be3566ffc915d216b479d96cfb0a2a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Wed Jan 19 11:33:51 2022 +0300
+
+    changes on index.html footer
+
+[33mcommit eb557d5c66ab78416e2441b04fd53f2d1657f17c[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Wed Jan 19 11:28:00 2022 +0300
+
+    fixed the broken email address
+
+[33mcommit 7e4abbdcf74a8cef2ad542f3e9d16d6909392098[m[33m ([m[1;33mtag: v1.4[m[33m, [m[1;32mtesting[m[33m, [m[1;32mshared[m[33m, [m[1;32miss53[m[33m)[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Thu Dec 23 00:23:46 2021 +0300
+
+    Added shared comment to readme
+
+[33mcommit 80280460b9ab2747fbbfadef1349a6db017d0e23[m[33m ([m[1;32mstyle[m[33m)[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Wed Dec 1 23:24:49 2021 +0300
+
+    Updated index.html
+
+[33mcommit b48cf24469830e775a9dab7977e3382e3f2cebbf[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Wed Dec 1 23:18:58 2021 +0300
+
+    Added css stylesheet
+
+[33mcommit d5749de73aaae48df5008427dbe497235a0e7439[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Wed Dec 1 23:29:35 2021 +0300
+
+    Added README
+
+[33mcommit a41089740b9f81bca94de6e1e75492d395a01ffa[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Mon Nov 15 17:41:25 2021 +0300
+
+    Added index.html.
+
+[33mcommit e9264e103d4cc2d8fbd2a92b355543e4cf8c5190[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Mon Nov 15 17:37:53 2021 +0300
+
+    Moved hello.html to lib
+
+[33mcommit 971409a18ef1e0584128319e8fec82d7a972c615[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Thu Sep 23 19:06:49 2021 +0300
+
+    Add an author/email comment
+
+[33mcommit b5698f264876f5d24106bdd18a5027e63431fe0f[m[33m ([m[1;33mtag: v1[m[33m)[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Thu Sep 23 19:06:49 2021 +0300
+
+    Added HTML header
+
+[33mcommit 0b51785cd1817f68b4dcf028aa26c9268c1605b1[m[33m ([m[1;33mtag: v1-beta[m[33m)[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Thu Sep 23 19:04:25 2021 +0300
+
+    Added standart HTML page tags
+
+[33mcommit 023c54a0121e8a3623ef6d2d85466a4e64bdd0c9[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Thu Sep 23 18:55:59 2021 +0300
+
+    Unrealaed change to c
+
+[33mcommit 0599bc805000a7211e74762ddad4bb40da59ea7e[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Thu Sep 23 18:55:09 2021 +0300
+
+    Changes for a and b
+
+[33mcommit 0eb2d9ed74f1218aa10238f2457ac1254a8e7106[m
+Author: maks <isip_m.v.shevchenko@mpt.ru>
+Date:   Thu Sep 23 18:39:47 2021 +0300
+
+    First Commit
